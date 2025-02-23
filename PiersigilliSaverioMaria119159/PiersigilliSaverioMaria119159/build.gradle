@@ -1,0 +1,31 @@
+plugins {
+    id 'java'
+    id 'application'
+}
+
+group = 'VectorRace'
+version = '1.0-SNAPSHOT'
+
+
+java {
+    sourceCompatibility = JavaVersion.VERSION_17 // Puoi usare la versione di Java che preferisci
+    targetCompatibility = JavaVersion.VERSION_17
+}
+
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    testImplementation platform('org.junit:junit-bom:5.9.1')
+    testImplementation 'org.junit.jupiter:junit-jupiter'
+}
+
+test {
+    useJUnitPlatform()
+}
+
+application {
+    mainClass.set('VectorRace.Main')
+}
