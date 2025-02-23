@@ -1,33 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="Encoding" defaultCharsetForPropertiesFiles="ISO-8859-1">
-    <file url="file://$PROJECT_DIR$/src/main/java/VectorRace/Fisica/DefaultInertiaManager.java" charset="ISO-8859-1" />
-    <file url="file://$PROJECT_DIR$/src/main/java/VectorRace/Fisica/IInertiaManager.java" charset="ISO-8859-1" />
-    <file url="file://$PROJECT_DIR$/src/main/java/VectorRace/Fisica/IVelocityCalculator.java" charset="ISO-8859-1" />
-    <file url="file://$PROJECT_DIR$/src/main/java/VectorRace/Fisica/SimpleVelocityCalculator.java" charset="ISO-8859-1" />
-    <file url="file://$PROJECT_DIR$/src/main/java/VectorRace/Giocatori/AggressiveBot.java" charset="ISO-8859-1" />
-    <file url="file://$PROJECT_DIR$/src/main/java/VectorRace/Giocatori/BasePlayer.java" charset="ISO-8859-1" />
-    <file url="file://$PROJECT_DIR$/src/main/java/VectorRace/Giocatori/BotPlayer.java" charset="ISO-8859-1" />
-    <file url="file://$PROJECT_DIR$/src/main/java/VectorRace/Giocatori/ChaserBot.java" charset="ISO-8859-1" />
-    <file url="file://$PROJECT_DIR$/src/main/java/VectorRace/Giocatori/GreedyBot.java" charset="ISO-8859-1" />
-    <file url="file://$PROJECT_DIR$/src/main/java/VectorRace/Giocatori/HumanPlayer.java" charset="ISO-8859-1" />
-    <file url="file://$PROJECT_DIR$/src/main/java/VectorRace/Giocatori/IPlayer.java" charset="ISO-8859-1" />
-    <file url="file://$PROJECT_DIR$/src/main/java/VectorRace/Giocatori/SafeRunnerBot.java" charset="ISO-8859-1" />
-    <file url="file://$PROJECT_DIR$/src/main/java/VectorRace/Giocatori/SpeedControlBot.java" charset="ISO-8859-1" />
-    <file url="file://$PROJECT_DIR$/src/main/java/VectorRace/Motore/GameEngine.java" charset="ISO-8859-1" />
-    <file url="file://$PROJECT_DIR$/src/main/java/VectorRace/Posizione/GameBoard.java" charset="ISO-8859-1" />
-    <file url="file://$PROJECT_DIR$/src/main/java/VectorRace/Posizione/ITrack.java" charset="ISO-8859-1" />
-    <file url="file://$PROJECT_DIR$/src/main/java/VectorRace/Posizione/Position.java" charset="ISO-8859-1" />
-    <file url="file://$PROJECT_DIR$/src/main/java/VectorRace/Posizione/Track.java" charset="ISO-8859-1" />
-    <file url="file://$PROJECT_DIR$/src/main/java/VectorRace/Posizione/VectorDirection.java" charset="ISO-8859-1" />
-    <file url="file://$PROJECT_DIR$/src/test/java/ChaserBotTest.java" charset="ISO-8859-1" />
-    <file url="file://$PROJECT_DIR$/src/test/java/GreedyBotTest.java" charset="ISO-8859-1" />
-    <file url="file://$PROJECT_DIR$/src/test/java/SafeRunnerBotTest.java" charset="ISO-8859-1" />
-    <file url="file://$PROJECT_DIR$/src/test/java/TestAggressiveBot.java" charset="ISO-8859-1" />
-    <file url="file://$PROJECT_DIR$/src/test/java/TestBasePlayer.java" charset="ISO-8859-1" />
-    <file url="file://$PROJECT_DIR$/src/test/java/TestDefaultInertiaManager.java" charset="ISO-8859-1" />
-    <file url="file://$PROJECT_DIR$/src/test/java/TestGameBoard.java" charset="ISO-8859-1" />
-    <file url="file://$PROJECT_DIR$/src/test/java/TestGameEngine.java" charset="ISO-8859-1" />
-    <file url="file://$PROJECT_DIR$/src/test/java/TestTrack.java" charset="ISO-8859-1" />
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/src/main/java/VectorRace/Fisica/DefaultInertiaManager.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/main/java/VectorRace/Fisica/IInertiaManager.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/main/java/VectorRace/Fisica/IVelocityCalculator.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/main/java/VectorRace/Fisica/SimpleVelocityCalculator.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/main/java/VectorRace/Giocatori/AggressiveBot.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/main/java/VectorRace/Giocatori/BasePlayer.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/main/java/VectorRace/Giocatori/BotPlayer.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/main/java/VectorRace/Giocatori/ChaserBot.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/main/java/VectorRace/Giocatori/GreedyBot.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/main/java/VectorRace/Giocatori/HumanPlayer.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/main/java/VectorRace/Giocatori/IPlayer.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/main/java/VectorRace/Giocatori/SafeRunnerBot.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/main/java/VectorRace/Giocatori/SpeedControlBot.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/main/java/VectorRace/Motore/GameEngine.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/main/java/VectorRace/Posizione/GameBoard.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/main/java/VectorRace/Posizione/ITrack.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/main/java/VectorRace/Posizione/Position.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/main/java/VectorRace/Posizione/Track.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/main/java/VectorRace/Posizione/VectorDirection.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/test/java/ChaserBotTest.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/test/java/GreedyBotTest.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/test/java/SafeRunnerBotTest.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/test/java/TestAggressiveBot.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/test/java/TestBasePlayer.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/test/java/TestDefaultInertiaManager.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/test/java/TestGameBoard.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/test/java/TestGameEngine.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/test/java/TestTrack.java" charset="windows-1252" />
   </component>
 </project>
